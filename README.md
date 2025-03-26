@@ -45,7 +45,7 @@ The model incorporates the following variables:
 
 ## Sample Forecast Output
 
-In the report written 
+Attached in the final report written. Actual outcome was 1.51 million HOUST, relatively close to my prediction of 1,56million. 
 
 > Replace the above with your actual chart export from matplotlib.
 
